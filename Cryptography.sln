@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.779
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntropyEstimation", "Cryptology\EntropyEstimation.csproj", "{ED4F61B7-0C19-4A33-BB6A-221847786B4C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vigenere_cipher_encryption", "Vigenere_cipher_encryption\Vigenere_cipher_encryption.csproj", "{B41B7D56-3099-4525-90BE-A94168BC8E74}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{ED4F61B7-0C19-4A33-BB6A-221847786B4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED4F61B7-0C19-4A33-BB6A-221847786B4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED4F61B7-0C19-4A33-BB6A-221847786B4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B41B7D56-3099-4525-90BE-A94168BC8E74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B41B7D56-3099-4525-90BE-A94168BC8E74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B41B7D56-3099-4525-90BE-A94168BC8E74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B41B7D56-3099-4525-90BE-A94168BC8E74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
