@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntropyEstimation", "Crypto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vigenere_cipher_encryption", "Vigenere_cipher_encryption\Vigenere_cipher_encryption.csproj", "{B41B7D56-3099-4525-90BE-A94168BC8E74}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Affine_cipher_encryption", "Affine_cipher_encryption\Affine_cipher_encryption.csproj", "{5B1792D8-5F28-4A2D-9642-68B625C8504F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B41B7D56-3099-4525-90BE-A94168BC8E74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B41B7D56-3099-4525-90BE-A94168BC8E74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B41B7D56-3099-4525-90BE-A94168BC8E74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B1792D8-5F28-4A2D-9642-68B625C8504F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B1792D8-5F28-4A2D-9642-68B625C8504F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B1792D8-5F28-4A2D-9642-68B625C8504F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B1792D8-5F28-4A2D-9642-68B625C8504F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
