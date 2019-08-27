@@ -49,5 +49,10 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="data0.txt" />
+    <Content Include="Encr_lab.txt" />
+    <Content Include="ReadMe.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
